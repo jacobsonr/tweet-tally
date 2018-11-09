@@ -1,0 +1,8 @@
+consumerKey = "[Your Key]"
+consumerSecret = "[Your Secret]"
+accessToken = "[Your Token]"
+accessSecret = "[Your Secret]"
+
+countHistorySize = 16
+
+emojiFile = "data/emoji.json"

@@ -1,2 +1,11 @@
-*.class
-*.log
+/project/target
+/client/target
+/target
+tmp/
+.cache
+.idea
+.github
+project/project
+/.ensime
+/.ensime_cache
+application.conf
